@@ -57,8 +57,8 @@ format = " [$branch(:$remote_branch)]($style)"
 symbol = "[△](bold italic bright-blue)"
 style = "italic bright-blue"
 truncation_symbol = "⋯"
-truncation_length = 11
-ignore_branches = ["main", "master"]
+truncation_length = 20
+#ignore_branches = ["main", "master"]
 only_attached = true
 
 [git_metrics]
@@ -81,6 +81,10 @@ modified = "[●◦](italic yellow)"
 staged = "[▪┤[$count](bold white)│](italic bright-cyan)"
 renamed = "[◎◦](italic bright-blue)"
 deleted = "[✕](italic red)"
+
+[dotnet]
+format = " [dotnet](italic) [(🎯 $tfm)]($style)"
+style = "bold bright-yellow"
 
 [lua]
 format = " [lua](italic) [${symbol}${version}]($style)"
