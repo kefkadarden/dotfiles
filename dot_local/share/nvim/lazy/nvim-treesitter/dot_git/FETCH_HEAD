@@ -1,4 +1,4 @@
-81aca2f9815e26f638f697df1d828ca290847b64		branch 'main' of https://github.com/nvim-treesitter/nvim-treesitter
+568ede7e79172a0fe7c9d631454a97ad968deaf2		branch 'main' of https://github.com/nvim-treesitter/nvim-treesitter
 47cfda2c6711077625c90902d7722238a8294982	not-for-merge	branch '0.5-compat' of https://github.com/nvim-treesitter/nvim-treesitter
 b0060c7b8b256ca069788ffb26a5facf07db900e	not-for-merge	branch 'feat/emmylua' of https://github.com/nvim-treesitter/nvim-treesitter
 42fc28ba918343ebfd5565147a42a26580579482	not-for-merge	branch 'master' of https://github.com/nvim-treesitter/nvim-treesitter

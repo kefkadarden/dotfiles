@@ -1,7 +1,7 @@
-01e7b2758afca7c56c7c5ef235352e80cc592c0d		branch 'master' of https://github.com/loctvl842/monokai-pro.nvim
-45afeb203f74c4aa5c3936a7d0de88458bc7e8fc	not-for-merge	branch 'release-please--branches--master--components--monokai-pro' of https://github.com/loctvl842/monokai-pro.nvim
+e862648545a783c5364e95f206bb496e560dc76c		branch 'master' of https://github.com/loctvl842/monokai-pro.nvim
+4128ec3654f5e7d94df9c8e7ee6e7a31c1aaf24d	not-for-merge	branch 'release-please--branches--master--components--monokai-pro' of https://github.com/loctvl842/monokai-pro.nvim
 ccf41cb16108635902a2c6adfd8f318fd6f5a1c4	not-for-merge	branch 'revert-71-update-treesitter-highlight-for-ruby' of https://github.com/loctvl842/monokai-pro.nvim
-320e9b4de73920da09087402b45bd928d55575e9	not-for-merge	tag 'stable' of https://github.com/loctvl842/monokai-pro.nvim
+1d371eaeefef29161cf60ebd99910d20a3201024	not-for-merge	tag 'stable' of https://github.com/loctvl842/monokai-pro.nvim
 ce37d0780351ed38c8bb22a346b48188ff9f0db7	not-for-merge	tag 'v1.0.0' of https://github.com/loctvl842/monokai-pro.nvim
 e68f18d1d4eb8c360f550b73e681d1663bbdf4fe	not-for-merge	tag 'v1.0.1' of https://github.com/loctvl842/monokai-pro.nvim
 dcb68a53d4b474e2097fcafbe2cb971bacaa24a4	not-for-merge	tag 'v1.1.0' of https://github.com/loctvl842/monokai-pro.nvim
@@ -57,3 +57,4 @@ b79da0fa901beadb12b13f80350fd379e54e15b1	not-for-merge	tag 'v1.7.0' of https://g
 5abc7cde23a05ff116f4d64d1d1519f25713dfce	not-for-merge	tag 'v1.8.1' of https://github.com/loctvl842/monokai-pro.nvim
 cf78199c861d95b302217fb28f3205658ca27673	not-for-merge	tag 'v1.9.0' of https://github.com/loctvl842/monokai-pro.nvim
 a8952d5b507d4e55067e486d06220af7f570d7fb	not-for-merge	tag 'v2.0.0' of https://github.com/loctvl842/monokai-pro.nvim
+e862648545a783c5364e95f206bb496e560dc76c	not-for-merge	tag 'v2.1.0' of https://github.com/loctvl842/monokai-pro.nvim
