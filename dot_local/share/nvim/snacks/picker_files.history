@@ -1,1 +1,1 @@
-	&search 'pattern 
+	'pattern":q&search 	'pattern!:&search 	'pattern!q&search 	'pattern":q&search 
