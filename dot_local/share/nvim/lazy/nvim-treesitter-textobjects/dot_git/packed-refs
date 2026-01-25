@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+380561ee746eac6791d148c6de459f4d92b2fa33 refs/remotes/origin/0.5-compat
+70e9c489392b24b43ce7abf6a0275809941c6d10 refs/remotes/origin/fix/python-last-parameter
+52bda74e087034408e2d563cb4499c1601038f9d refs/remotes/origin/main
+5ca4aaa6efdcc59be46b95a3e876300cfead05ef refs/remotes/origin/master

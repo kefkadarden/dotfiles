@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+cecc1f4ebca50fd24e206e9f9fc307c2ae600b8a refs/remotes/origin/477-rename-duplicate-key
+5c763d53d4497445e01310a7746b7579ddf13c37 refs/remotes/origin/gh-pages
+6cd7280adead7f586db6fccbd15d2cac7e2188b9 refs/remotes/origin/main

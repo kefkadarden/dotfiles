@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+957a6df8da2ab500784aab54e11629d79447bd78 refs/remotes/origin/light_contrast
+1309bc88bffcf1bedc3e84e7fa9004de93da774a refs/remotes/origin/master
+a0c4df5b2d3064415baab9a83d85a17a8b90b690 refs/remotes/origin/rockspec

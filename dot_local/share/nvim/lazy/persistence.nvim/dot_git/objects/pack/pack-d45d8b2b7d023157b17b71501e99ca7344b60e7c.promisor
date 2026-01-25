@@ -1,0 +1,15 @@
+b20b2a7887bd39c1a356980b45e03250f3dce49c HEAD
+b20b2a7887bd39c1a356980b45e03250f3dce49c refs/heads/create-pull-request/patch
+b20b2a7887bd39c1a356980b45e03250f3dce49c refs/heads/main
+39d602da5060ee3c0912bbd72845a70f78a6c270 refs/heads/release-please--branches--main
+55b0b4f4348a56b2e8f97a1fc9dc30a542412b07 refs/heads/release-please--branches--main--components--persistence.nvim
+c0c51702814d9832d9453820804c9148ae88e050 refs/tags/stable
+ea9d9245d87a6468c5f69a403838cba7cb5c6e58 refs/tags/v1.0.0
+8484fdaa284207f77ec69b9627316bf334ad653f refs/tags/v1.0.1
+adcf6913693a0434665d162ee45a186230496f8a refs/tags/v1.1.0
+21f55da0d3b618fbbee127f0ec9bb71ab77e754d refs/tags/v1.2.0
+9730a073fd8270e91729d666bcef6a5abc007f02 refs/tags/v1.2.1
+ad538bfd5336f1335cdb6fd4e0b0eebfa6e12f32 refs/tags/v2.0.0
+7f1e8ce9978f54dba412e8798bc303477bc6eef4 refs/tags/v3.0.0
+fc8273bac058397a6cace0f4258dad22febc3aa4 refs/tags/v3.0.1
+c45ff862b53ce07a853a753fb0b33e148dbb99d2 refs/tags/v3.1.0

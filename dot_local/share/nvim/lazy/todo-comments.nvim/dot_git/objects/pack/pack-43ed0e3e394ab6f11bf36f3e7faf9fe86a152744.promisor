@@ -1,0 +1,14 @@
+31e3c38ce9b29781e4422fc0322eb0a21f4e8668 HEAD
+31e3c38ce9b29781e4422fc0322eb0a21f4e8668 refs/heads/create-pull-request/patch
+31e3c38ce9b29781e4422fc0322eb0a21f4e8668 refs/heads/main
+7b8f174de9cac9d892c6ffda3778b1e4f4288d44 refs/heads/neovim-pre-0.8.0
+6a8bc38ad57d8682a444a1ba9a11fb2f2951b0d8 refs/heads/release-please--branches--main
+32ec35391cf92dfc595069b51ff9275506470b24 refs/heads/release-please--branches--main--components--todo-comments.nvim
+e5860cfeb7efb440806bcb900cf523cd0a4decfd refs/tags/stable
+077c59586d9d0726b0696dc5680eb863f4e04bc5 refs/tags/v1.0.0
+0874bda6848ff6f3da3ffdf4bd8297a5c951c5d4 refs/tags/v1.0.1
+8febc60a76feefd8203077ef78b6a262ea1a41f9 refs/tags/v1.1.0
+a7e39ae9e74f2c8c6dc4eea6d40c3971ae84752d refs/tags/v1.2.0
+313b04e5b02d29ab9275c9295ff5e2b73921b0eb refs/tags/v1.3.0
+ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0 refs/tags/v1.4.0
+31e3c38ce9b29781e4422fc0322eb0a21f4e8668 refs/tags/v1.5.0

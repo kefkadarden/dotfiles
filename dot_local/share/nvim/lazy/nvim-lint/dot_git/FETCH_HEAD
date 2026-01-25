@@ -1,0 +1,5 @@
+ca6ea12daf0a4d92dc24c5c9ae22a1f0418ade37		branch 'master' of https://github.com/mfussenegger/nvim-lint
+5d1329496cb07b2f153f33c55c0626c0b5905c1c	not-for-merge	branch 'ci' of https://github.com/mfussenegger/nvim-lint
+144249390337b06c9d3314cde9b18ff47293f5cc	not-for-merge	branch 'gha' of https://github.com/mfussenegger/nvim-lint
+ad83c4c2ca2c4fcaac37b89d8783beb61120120e	not-for-merge	branch 'readme-security' of https://github.com/mfussenegger/nvim-lint
+fe160818db1b0a11302c8715f3a397ebfbd5e06a	not-for-merge	tag 'nvim-05' of https://github.com/mfussenegger/nvim-lint

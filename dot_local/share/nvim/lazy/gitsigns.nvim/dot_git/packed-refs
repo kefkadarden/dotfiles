@@ -1,0 +1,37 @@
+# pack-refs with: peeled fully-peeled sorted 
+8cb80be5a0f4c8b0fdd35c7858ed126eda792129 refs/remotes/origin/actionval
+d994e965317c748615923abbcab615fe2b1b297a refs/remotes/origin/copilot/fix-gitsigns-lang-issue
+60772a778d1f1e567edfd204356f1ffc62f5e796 refs/remotes/origin/copilot/fix-gitsigns-reblame-crash
+ca87c43ad9f47a25bafaf0237f94d3c3ef4b51ef refs/remotes/origin/copilot/fix-reblame-timeout-error
+fdeacb837bec8df8c282cdc58e674587b3c463d3 refs/remotes/origin/feat/heatmap
+8bf635bcf76f0354d2ef4e77ad2034642c7b0435 refs/remotes/origin/feat/longblame
+ab80c8d58b54839cffcd99d740f1f7d53bd5938c refs/remotes/origin/feat/reuserepo
+74983b4252629c9754f3df7886614846cca5a168 refs/remotes/origin/fix/issue1237
+bed75b664612f952336b765d27603f5d4cf90aea refs/remotes/origin/fix/showbufattach
+e3036424ac52bf6feed773e642bcb4f27256abb6 refs/remotes/origin/gh_integ
+91d87c10c36446b16fa7837dd830741895b42b61 refs/remotes/origin/ghinteg
+d3be0c6186623b0c16326e647727533c030641c2 refs/remotes/origin/invalidate_signs
+abf82a65f185bd54adc0679f74b7d6e1ada690c9 refs/remotes/origin/main
+6ef8c54fb526bf3a0bc4efb0b2fe8e6d9a7daed2 refs/remotes/origin/release
+4073605170fe5f2f6a11b4d29b99e2fbc63b2eed refs/remotes/origin/release-please--branches--main
+d9af22182e18203fc075a51067f1a345a2d6e79f refs/remotes/origin/release-please--branches--main--components--gitsigns.nvim
+3e59898cb859675147eab2f7c69c22a39e1f9fbd refs/remotes/origin/winstage
+a10142d38604fa3a4001e283c339a2f9fee50906 refs/tags/release
+^42d6aed4e94e0f0bbced16bbdcc42f57673bd75e
+31bb835531e3a964444d53be8eb910ee6458fd46 refs/tags/v0.1
+^e40f8287269fc75adc7927aad40fb12857c91148
+d1141552941aec6fc59edf985bb8ed9a3ee29aa4 refs/tags/v0.2
+4d8a6e0eb38a3715bec45c98c3567b47789e1367 refs/tags/v0.3
+f4648dcc055a10573f36e83343592824155ab466 refs/tags/v0.4
+d7e0bcbe45bd9d5d106a7b2e11dc15917d272c7a refs/tags/v0.5
+bb808fc7376ed7bac0fbe8f47b83d4bf01738167 refs/tags/v0.6
+6ef8c54fb526bf3a0bc4efb0b2fe8e6d9a7daed2 refs/tags/v0.7
+907f7ac79b2c359320b392fc8c209214a1a79a65 refs/tags/v0.7.0
+^6ef8c54fb526bf3a0bc4efb0b2fe8e6d9a7daed2
+52f8da33cc0cadbf1164c4a91c8bfd6895533d67 refs/tags/v0.8.0
+76927d14d3fbd4ba06ccb5246e79d93b5442c188 refs/tags/v0.8.1
+0b04035bb7b3c83e999b9676e2fb46fd0aa9f910 refs/tags/v0.9.0
+c23bbd3ed2c7a3fdc3399e97e24f9e158f57612f refs/tags/v1.0.0
+6668f379ca634c36b8e11453118590b91bf8b295 refs/tags/v1.0.1
+7010000889bfb6c26065e0b0f7f1e6aa9163edd9 refs/tags/v1.0.2
+42d6aed4e94e0f0bbced16bbdcc42f57673bd75e refs/tags/v2.0.0
