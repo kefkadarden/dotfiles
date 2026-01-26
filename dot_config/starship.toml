@@ -1,10 +1,9 @@
 "$schema" = 'https://starship.rs/config-schema.json'
-add_newline = true
-command_timeout = 200
+add_newline = false 
+command_timeout = 2000
+
 format = """
-$git_metrics\n$directory$sudo $character
-"""
-right_format = """
+$git_metrics\n$directory$sudo $character $fill \ 
 $git_branch \
 $git_commit \
 $git_state \
@@ -81,6 +80,7 @@ modified = "[●◦](italic yellow)"
 staged = "[▪┤[$count](bold white)│](italic bright-cyan)"
 renamed = "[◎◦](italic bright-blue)"
 deleted = "[✕](italic red)"
+use_git_executable = true
 
 [dotnet]
 format = " [dotnet](italic) [(🎯 $tfm)]($style)"

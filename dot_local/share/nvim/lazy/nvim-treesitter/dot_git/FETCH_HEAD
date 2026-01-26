@@ -1,0 +1,17 @@
+568ede7e79172a0fe7c9d631454a97ad968deaf2		branch 'main' of https://github.com/nvim-treesitter/nvim-treesitter
+47cfda2c6711077625c90902d7722238a8294982	not-for-merge	branch '0.5-compat' of https://github.com/nvim-treesitter/nvim-treesitter
+b0060c7b8b256ca069788ffb26a5facf07db900e	not-for-merge	branch 'feat/emmylua' of https://github.com/nvim-treesitter/nvim-treesitter
+42fc28ba918343ebfd5565147a42a26580579482	not-for-merge	branch 'master' of https://github.com/nvim-treesitter/nvim-treesitter
+42fc28ba918343ebfd5565147a42a26580579482	not-for-merge	tag 'v0.10.0' of https://github.com/nvim-treesitter/nvim-treesitter
+4cccb6f494eb255b32a290d37c35ca12584c74d0	not-for-merge	tag 'v0.7.2' of https://github.com/nvim-treesitter/nvim-treesitter
+69388e84c34d40c3d5c7d2f310db13276f2179e1	not-for-merge	tag 'v0.8.0' of https://github.com/nvim-treesitter/nvim-treesitter
+69388e84c34d40c3d5c7d2f310db13276f2179e1	not-for-merge	tag 'v0.8.1' of https://github.com/nvim-treesitter/nvim-treesitter
+ad9ae9e7def54fee446c3e186ed0a0d44cca7b90	not-for-merge	tag 'v0.8.3' of https://github.com/nvim-treesitter/nvim-treesitter
+c9d7f9c9207b6fe53f58e0a3ef2e5227c37d9004	not-for-merge	tag 'v0.8.4' of https://github.com/nvim-treesitter/nvim-treesitter
+c38646edf2bdfac157ca619697ecad9ea87fd469	not-for-merge	tag 'v0.8.5' of https://github.com/nvim-treesitter/nvim-treesitter
+84b047e4242d68c29117b677cdf1b4574f8e5137	not-for-merge	tag 'v0.8.5.1' of https://github.com/nvim-treesitter/nvim-treesitter
+b401b7423d18c78371c5ff1a5f8d3c14292b2047	not-for-merge	tag 'v0.8.5.2' of https://github.com/nvim-treesitter/nvim-treesitter
+cc360a9beb1b30d172438f640e2c3450358c4086	not-for-merge	tag 'v0.9.0' of https://github.com/nvim-treesitter/nvim-treesitter
+0f9f09275f5fdfcc2b1f4021ddca44282cf47a6b	not-for-merge	tag 'v0.9.1' of https://github.com/nvim-treesitter/nvim-treesitter
+881c6118a1287d8bf40d72b757f621d0bbca1f41	not-for-merge	tag 'v0.9.2' of https://github.com/nvim-treesitter/nvim-treesitter
+13be7a022997446bf96892bf1ac95784681a02e1	not-for-merge	tag 'v0.9.3' of https://github.com/nvim-treesitter/nvim-treesitter

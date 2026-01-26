@@ -6,7 +6,6 @@
 source ~/.local/share/omarchy/default/bash/rc
 
 #[[ $- == *i* ]] && source /usr/share/blesh/ble.sh --noattach
-
 # Add your own exports, aliases, and functions here.
 #
 # Make an alias for invoking commands you use constantly
@@ -30,5 +29,6 @@ alias gaa='git add .'
 alias ga='git add'
 #. "$HOME/.cargo/env"
 
-#[[ ${BLE_VERSION-} ]] && ble-attach
 eval "$(starship init bash)"
+
+#[[ $- == *i* ]] && ble-attach
