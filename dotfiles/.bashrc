@@ -3,7 +3,8 @@
 
 # All the default Omarchy aliases and functions
 # (don't mess with these directly, just overwrite them here!)
-source ~/.local/share/omarchy/default/bash/rc
+#source ~/.local/share/omarchy/default/bash/rc
+source "$HOME/bash/rc"
 
 #[[ $- == *i* ]] && source /usr/share/blesh/ble.sh --noattach
 # Add your own exports, aliases, and functions here.
@@ -27,6 +28,7 @@ alias md='function _md() { mkdir -p "$1" && cd "$1"; }; _md'
 alias vim='nvim'
 alias gaa='git add .'
 alias ga='git add'
+alias gp='git push origin main'
 #. "$HOME/.cargo/env"
 
 eval "$(starship init bash)"
