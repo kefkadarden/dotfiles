@@ -157,6 +157,7 @@ run_backup() {
     fi
 
     # backup pacman package list
+    print_status "Exporting Pacman packages to pacman-packages.txt"
     pacman -Qe > "$PACKAGES_DIR/pacman-packages.txt"
 
     # Run the Git sync process
