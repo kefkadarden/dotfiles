@@ -11,7 +11,8 @@ RED='\033[0;31m'
 NC='\033[0m' # No Color
 
 # Configurations
-DOTFILES_DIR="$HOME/packages/dotfiles"
+PACKAGES_DIR=$HOME/packages
+DOTFILES_DIR="$PACKAGES_DIR/dotfiles"
 BACKUP_DIR="$DOTFILES_DIR/kde-backup"
 PROFILE_NAME="hypr-plasma"
 EXPORT_FILE="$BACKUP_DIR/$PROFILE_NAME.knsv"
@@ -70,8 +71,8 @@ check_system_deps() {
 }
 
 check_git_repo() {
-    cd "$DOTFILES_DIR"
-    cd ..
+    cd "$PACKAGES_DIR"
+
     if [ ! -d ".git" ]; then
         print_warning "Directory is not a Git repository. Initializing local repo..."
         git init
@@ -154,6 +155,9 @@ run_backup() {
         print_error "Failed to locate the exported profile bundle file."
         exit 1
     fi
+
+    # backup pacman package list
+    pacman -Qe > "$PACKAGES_DIR/pacman-packages.txt"
 
     # Run the Git sync process
     git_push_changes
