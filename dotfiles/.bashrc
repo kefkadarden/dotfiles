@@ -1,0 +1,34 @@
+# If not running interactively, don't do anything (leave this at the top of this file)
+[[ $- != *i* ]] && return
+
+# All the default Omarchy aliases and functions
+# (don't mess with these directly, just overwrite them here!)
+source ~/.local/share/omarchy/default/bash/rc
+
+#[[ $- == *i* ]] && source /usr/share/blesh/ble.sh --noattach
+# Add your own exports, aliases, and functions here.
+#
+# Make an alias for invoking commands you use constantly
+# alias p='python'
+#
+
+export PATH="$PATH:$HOME/.local/share/omarchy/bin"
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export JAVA_HOME="/usr/lib/jvm/java-17-openjdk/"
+export PATH="$JAVA_HOME/bin:$PATH"
+export PATH="$HOME/.dotnet/tools:$PATH"
+
+alias cls='clear'
+alias md='function _md() { mkdir -p "$1" && cd "$1"; }; _md'
+alias vim='nvim'
+alias gaa='git add .'
+alias ga='git add'
+#. "$HOME/.cargo/env"
+
+eval "$(starship init bash)"
+
+#[[ $- == *i* ]] && ble-attach
