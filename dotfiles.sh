@@ -145,7 +145,6 @@ run_backup() {
     print_status "Exporting profile to directory archive..."
     rm -f "$EXPORT_FILE"
     konsave -e "$PROFILE_NAME" -d "$EXPORT_DIR"
-    
     # Move the generated export from standard location into our managed directory repo
     GENERATED_EXPORT=$(find "$EXPORT_DIR" -name "${PROFILE_NAME}*.knsv" | head -n 1)
     if [ -f "$GENERATED_EXPORT" ]; then
