@@ -110,6 +110,7 @@ intel-ucode 20260512-1
 iptables 1:1.8.13-1.1
 iwd 3.12-1.1
 jfsutils 1.1.15-9.1
+kdeconnect 26.04.1-1.1
 keeper-password-manager 17.5.0-1
 kitty 0.46.2-1.2
 konsave 2.3.0-1
